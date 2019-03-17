@@ -32,7 +32,7 @@ body {
   align-content: center;
   align-items: center;
   flex-flow: column wrap;
-  background: url(images/backgroundMeGrey.jpg);
+  background: url(images/backgroundMe.jpg);
   background-size: 1000px;
   background-position: -144px -79px;
   animation: 1s forwards unwrapOnLoad;
@@ -111,7 +111,7 @@ body {
   animation: 1.5s forwards unwrapOnLoad;
   font-family: 'Londrina Outline';
   color: #ffc355;
-  font-size: 61px;
+  font-size: 55px;
   font-weight: 900;
 }
 
