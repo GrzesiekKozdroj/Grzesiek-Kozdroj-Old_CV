@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 body {
   background: rgba(252, 222, 113, 0.82);
   background-size: cover;
@@ -38,7 +38,7 @@ body {
 .my__picture {
   width: 97%;
   height: 270px;
-  background-image: url("images/profile img.jpg");
+  background-image: url("../img/profile img.jpg");
   background-position: -18px -53px;
   background-size: 363px;
   border-radius: 109px;
@@ -134,7 +134,7 @@ body {
 }
 
 .phone {
-  background-image: url(images/mobile.png);
+  background-image: url("../img/mobile.png");
   background-position: -403px -55px;
   background-size: 286px;
   height: 53px;
@@ -142,7 +142,7 @@ body {
 }
 
 .email {
-  background-image: url(images/yahoo-icon.png);
+  background-image: url("../img/yahoo-icon.png");
   background-position: 0px -0px;
   background-size: 53px;
   background-repeat: no-repeat;
@@ -152,7 +152,7 @@ body {
 }
 
 .github {
-  background-image: url(images/Octocat.png);
+  background-image: url("../img/Octocat.png");
   background-position: 0px 0px;
   background-size: 272px;
   height: 53px;
@@ -162,7 +162,7 @@ body {
 }
 
 .linkedin {
-  background-image: url(images/In-2C-54px-R.png);
+  background-image: url("../img/In-2C-54px-R.png");
   background-position: 0px 0px;
   height: 53px;
   background-size: 64px;
@@ -171,7 +171,7 @@ body {
 }
 
 .cl__logo {
-  background: url(images/cl.png);
+  background: url("../img/cl.png");
   display: inline-block;
   width: 385px;
   height: 73px;
@@ -213,4 +213,3 @@ li {
   display: inline-flex;
   height: 113px;
 }
-
