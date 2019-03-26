@@ -22,7 +22,7 @@ class App extends React.Component {
                 </div>
             
                 <div className="left__content">
-                    <p className="email button">larhendiel@yahoo.co.uk</p>
+                    <p className="email button">GregKozdroj@gmail.com</p>
                 </div>
             
                 <div className="left__content">
