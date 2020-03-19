@@ -1,4 +1,4 @@
-# Grzesiek-Kozdroj-Resume
+# Grzesiek-Kozdroj-Old_CV
 working version of my very first cv written using old school html.
 it looks horible and was laughed at. Never the less...
 https://grzesiekkozdroj.github.io/Grzesiek-Kozdroj-Resume/
